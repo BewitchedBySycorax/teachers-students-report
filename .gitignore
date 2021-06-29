@@ -1,0 +1,14 @@
+# Apple Desktop Services Store
+.DS_Store
+
+# Backup files
+*_backup*
+
+# Dependencies
+node_modules/
+
+# Temp working directory
+temp/
+
+# You should run "npm ci" BUT NOT "npm i" in command prompt rather that adding package-lock.json to .gitignore file
+# package-lock.json
